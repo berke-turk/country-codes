@@ -1,4 +1,4 @@
 # country-codes
-All Countries With Json
+All Countries in countries.json 
 
 Thanks <3
